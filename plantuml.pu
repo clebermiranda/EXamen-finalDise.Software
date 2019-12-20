@@ -1,0 +1,14 @@
+@startuml
+
+
+ class controllers.electorController{
+ registrar()
+ rellenar_Eencuesta()
+
+ }
+ class controllers.encuestasController{
+ Mostrar()
+
+ }
+
+@enduml
